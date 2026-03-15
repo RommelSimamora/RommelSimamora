@@ -19,7 +19,8 @@ I'm currently learning Python, Machine Learning, and Git
 ## ✨ Github Stats 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ROMMELSIMAMORA&show_icons=true&theme=tokyonight)
 
-![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=ROMMELSIMAMORA&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=ROMMELSIMAMORA&layout=compact&theme=tokyonight)
+
 ---
 ## ✨ Connect With Me 
 - Instagram : https://instagram.com/rommelsim
