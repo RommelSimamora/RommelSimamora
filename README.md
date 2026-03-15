@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Rommel Simamora
 Information System Student 
+---
 Interested in AI, Web development, Data Science and Digital Marketing
+---
 I'm currently learning Python, Machine Learning, and Git
-
+---
 ## 🌱Skills & Tech Stack
 - Programming Language:
   - Python
