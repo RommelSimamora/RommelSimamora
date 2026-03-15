@@ -14,7 +14,6 @@ I'm currently learning Python, Machine Learning, and Git
   
 - Tools
   - Git
-  - VS Code
   - Figjam
 ---
 
