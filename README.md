@@ -31,7 +31,7 @@ I'm currently learning Python, Machine Learning, and Git
 ---
 ## 📫 How to reach me: WA-089523773977
 
-![coding] (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House 
 <!--
